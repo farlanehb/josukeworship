@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: lightslategray;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align:center; 
+}
+
+p {
+  font-family: wingdings;
+  font-size: 20px;
+}
